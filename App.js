@@ -29,7 +29,7 @@ export default function App() {
 
   return (
     <SafeAreaView>
-      <Text>App</Text>
+      <Text>Testing SSL Pinning App</Text>
       <Button title="Fetch Secure Data" onPress={secureFetchData} />
     </SafeAreaView>
   );
